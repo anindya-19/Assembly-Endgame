@@ -6,9 +6,8 @@ A fun, themed word-guessing game built with React — inspired by Hangman but wi
 
 ## 📸 Screenshots
 
-| Gameplay | Win Screen |
-|---|---|
-| ![Gameplay](./screenshots/gameplay.png) | ![Win Screen](./screenshots/win-screen.png) |
+<img width="1916" height="989" alt="Screenshot from 2026-03-17 14-54-49" src="https://github.com/user-attachments/assets/834021a5-e98f-4eb6-bd59-95ea65db8bce" /><img width="1916" height="989" alt="Screenshot from 2026-03-17 14-51-21" src="https://github.com/user-attachments/assets/8d7f5fa6-b48f-46f4-9d9c-818dd832b1d8" />
+
 
 ## 🎯 How to Play
 
@@ -98,5 +97,6 @@ The game features **9 languages** as lives, eliminated in this order:
 Lose all 8 non-Assembly guesses and it's game over — Assembly wins. 🤖
 
 ## 📜 License
+
 
 This project was built as part of the [Scrimba Full-Stack Path](https://scrimba.com/fullstack-path-c0fullstack) curriculum.
