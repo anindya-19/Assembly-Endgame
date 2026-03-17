@@ -4,6 +4,12 @@ A fun, themed word-guessing game built with React — inspired by Hangman but wi
 
 🔗 **Live Demo:** [assembly-endgame-alpha.vercel.app](https://assembly-endgame-alpha.vercel.app/)
 
+## 📸 Screenshots
+
+| Gameplay | Win Screen |
+|---|---|
+| ![Gameplay](./screenshots/gameplay.png) | ![Win Screen](./screenshots/win-screen.png) |
+
 ## 🎯 How to Play
 
 1. A random word is chosen at the start of each game.
